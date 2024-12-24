@@ -12,7 +12,7 @@ This Streamlit application allows users to generate innovative product ideas ins
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/srexrg/generate-ideas.git
+   git clone https://github.com/codewithevilxd/generate-ideas.git
    cd generate-ideas
    ```
 
